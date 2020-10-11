@@ -9,3 +9,4 @@
 8 本地分支间 只能合并
 9 git remote add origin https://github.com/molyvirgo/testgit.git
 10 git push origin m01@local1:m01@remote1
+11  git remote remove origin https://github.com/molyvirgo/testgit.git
