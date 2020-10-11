@@ -1,0 +1,7 @@
+1 git init
+2 touch .gitignore
+3 git add init.txt
+4 git commit -m 'init'
+5 git branch -a
+6 git branch moly@local1
+7 git checkout moly@local1
