@@ -5,3 +5,4 @@
 5 git branch -a
 6 git branch moly@local1
 7 git checkout moly@local1
+8 本地分支间 只能合并
